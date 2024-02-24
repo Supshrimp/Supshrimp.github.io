@@ -2,7 +2,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>http://example.com/2024/02/24/m%E8%8A%AF%E7%89%87Mac%E4%BD%BF%E7%94%A8vagrant%E5%AE%89%E8%A3%85debian/</loc>
+    <loc>http://supgoon.com/2024/02/24/m%E8%8A%AF%E7%89%87Mac%E4%BD%BF%E7%94%A8vagrant%E5%AE%89%E8%A3%85debian/</loc>
     
     <lastmod>2024-02-24</lastmod>
     
@@ -11,7 +11,7 @@
   </url>
   
   <url>
-    <loc>http://example.com/categories/index.html</loc>
+    <loc>http://supgoon.com/categories/index.html</loc>
     
     <lastmod>2024-02-24</lastmod>
     
@@ -20,7 +20,7 @@
   </url>
   
   <url>
-    <loc>http://example.com/resources/index.html</loc>
+    <loc>http://supgoon.com/resources/index.html</loc>
     
     <lastmod>2024-01-26</lastmod>
     
@@ -29,7 +29,7 @@
   </url>
   
   <url>
-    <loc>http://example.com/about/index.html</loc>
+    <loc>http://supgoon.com/about/index.html</loc>
     
     <lastmod>2024-01-26</lastmod>
     
@@ -38,7 +38,7 @@
   </url>
   
   <url>
-    <loc>http://example.com/tags/index.html</loc>
+    <loc>http://supgoon.com/tags/index.html</loc>
     
     <lastmod>2024-01-26</lastmod>
     
@@ -48,7 +48,7 @@
   
 
   <url>
-    <loc>http://example.com/</loc>
+    <loc>http://supgoon.com/</loc>
     <lastmod>2024-02-24</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
